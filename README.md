@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/MikeyGloriani/ICS20R-Unit-1-02-HTML)](https://repl.it/github/MikeyGloriani/ICS20R-Unit-1-02-HTML)
 
-This site can be found at: [https://MikeyGloriani.github.io/ICS20R-Unit-1-02-HTML](https://MikeyGloriani.github.io/ICS-Unit-1-02-HTML)
+This site can be found at: [https://<OWNER>.github.io/<REPOSITORY>](https://<OWNER>.github.io/<REPOSITORY>)
